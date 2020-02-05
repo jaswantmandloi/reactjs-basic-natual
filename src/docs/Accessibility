@@ -1,0 +1,50 @@
+WCAG2.1 makes Web content more accessible.
+
+Covers wider range of people with disabilities
+
+1. Blind
+2. Low vision
+3. Defeaness
+4. Hearing loss
+5. Limited movement
+6. Speech Disability
+7. Photo Sensitivity
+8. Learning Disability
+9. Congnitive Limitation
+10. Combination of above.
+
+
+
+WCAG2 Layers of Guidelines
+
+1. Principles => Percievable, Operable, Understandable and Robust
+2. Guidelines => 13 Guidelines based on principles
+3. Success Criteria => Based on Principles A, AA, AAA
+4. Scfficient and Advisory Techniques => 2 techniques one is to meet success criteria and another is advisory to address accessibility issues
+
+
+WCAG 2.1 Comparision with WCAG 2.0
+
+2.1 extends 2.0 by adding new success criteria
+
+2.1 was initiated with goals to improve accessibility guidelines for 3 major groups
+1. Users with congnitive Or learning disability
+2. Users with low vision
+3. Users with disabilities on mobile devices
+
+
+
+
+
+Percievable
+
+1. Text Aleternatives
+2. Time Based media
+3. Adaptable
+4. Distingushable
+
+
+Operable
+
+1. Keyboard Accessible
+2. Enough Time
